@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mr. Zoot Horn Rollo
-- 👀 I’m interested in linguistics, programming/coding, fantasy media
-- 🌱 I’m currently learning Lua, Python
+- 👋 Hi, I’m LJ
+- 👀 I’m interested in linguistics, programming/coding, and fantasy media
+- 🌱 I’m currently learning Lua, Python, and Perl
 - 😄 Pronouns: He/They
