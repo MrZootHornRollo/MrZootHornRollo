@@ -1,4 +1,4 @@
-- 👋 Hi, I’m LJ
-- 👀 I’m interested in linguistics, programming/coding, and fantasy media
-- 🌱 I’m currently learning Lua, Python, and Perl
-- 😄 Pronouns: He/They
+Name: LJ <br>
+Interests: Linguistics, programming/coding, and fantasy media<br>
+Learning: Lua, Python, and Perl<br>
+Pronouns: He/They<br>
